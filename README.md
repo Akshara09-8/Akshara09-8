@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+AKSHARA SHARMA 
+CSE
+2025-29
+FULL STACK DEVELOPER AND AN AI ENTHUSIAST
 <!--
 **Akshara09-8/Akshara09-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
